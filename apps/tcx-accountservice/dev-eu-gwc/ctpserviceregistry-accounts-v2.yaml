@@ -1,0 +1,5 @@
+ctpServiceRegistry:
+     canonicalName: ttc-accountservice
+     namespace: TRANSPORTATION
+     apiEndpoints:
+         -requestPath: core/v6/accounts
