@@ -2,7 +2,7 @@ ctpServiceRegistry:
      canonicalName: ttc-accountservice
      namespace: TRANSPORTATION
      apiEndpoints:
-        - requestPath: core/v8/accounts
+        - requestPath: core/v9/accounts
           spikeArrest:
             limit: 20000
             interval: 350
