@@ -9,5 +9,6 @@ ctpServiceRegistry:
         - requestPath: test/v7/accounts
           spikeArrest:
             limit: 2555
-            interval: 300
+            interval: 30
       
+
