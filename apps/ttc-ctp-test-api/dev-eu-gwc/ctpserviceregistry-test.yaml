@@ -10,7 +10,4 @@ ctpServiceRegistry:
       spikeArrest:
         limit: 2555
         interval: 300
-    - requestPath: core/mdm/v7/accounts
-      spikeArrest:
-        limit: 2555
-        interval: 300
+
