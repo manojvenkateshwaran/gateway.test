@@ -1,0 +1,8 @@
+ctpServiceRegistry:
+  canonicalName: ttc-ctp-mdm-mig-dedup
+  namespace: TRANSPORTATION
+  apiEndpoints:
+    - requestPath: core/mdm/v1/dedup/test
+      spikeArrest:
+        limit: 20000
+        interval: 350
